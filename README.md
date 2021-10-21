@@ -1,2 +1,1 @@
-# Mobile-App
-Mobile application developed using android studio
+Mobile application developed in Java using android studio
